@@ -6,7 +6,7 @@ export default function Home() {
     <div className="min-h-screen flex items-center justify-center bg-background p-4">
       <Card className="w-full max-w-md shadow-lg border-primary/20">
         <CardHeader className="text-center">
-          <CardTitle className="text-3xl font-bold">Hello World</CardTitle>
+          <CardTitle className="text-3xl font-bold">Hello World111</CardTitle>
           <CardDescription>欢迎来到由 Vesa 构建的现代化 Web 应用</CardDescription>
         </CardHeader>
         <CardContent className="flex justify-center">
